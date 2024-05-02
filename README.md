@@ -1,8 +1,10 @@
 # A Tray and coins
 A simple OpenCV project for counting coins inside/outside of a tray.
 
-<img src="data/source/tray8.jpg" width=400>
-<img src="data/output/out-tray8.jpg" width="400">
+<div align="center">
+<img src="data/source/tray8.jpg" width="350">
+<img src="data/output/out-tray8.jpg" width="350">
+</div>
 
 ## Task Description
 Write a program which finds and calculates coins on tray8.jpg (total 12 points):
